@@ -14,3 +14,7 @@ var User = /*#__PURE__*/_createClass(function User(_ref) {
 var user = new User({
   email: 'Jean@gmail.com'
 });
+function soma(x, y) {
+  return x + y;
+}
+soma(1, 2);
